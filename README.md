@@ -15,7 +15,7 @@ https://www.alibaba.com/product-detail/Servo-Motor-And-Driver-750w-1kw_160049572
               
 2- Elbow: 
 - AC Servo Motor 200W ECMA-C20602RS
-  S
+  
        
 Link for purchasing:  
 https://www.damencnc.com/en/ac-servo-motor-200w-ecma-c20602rs/a3579
@@ -24,10 +24,10 @@ https://www.damencnc.com/en/ac-servo-motor-200w-ecma-c20602rs/a3579
 
 3- Wrist: 
 - BLDC servo motor
-  s  
 
-      
-Link for purchasing:    
+       
+Link for purchasing:  
+https://www.electromaker.io/shop/product/xm430-w210-r?srsltid=AfmBOorSPDmqbCJ6ggTv8teKAkQR5_XGyBxmRCuXgbS5tZgb32zQzDlr8HY
   
 ---------------------------------
 

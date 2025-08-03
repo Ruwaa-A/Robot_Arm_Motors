@@ -3,7 +3,11 @@ Calculating the required motor torque for a robot arm and selecting the appropri
 
 ___________________________________
 ## Choosing Servo Motors
+1- Shoulder:
 
+2- Elbow:
+
+3- Wrist: 
 
 ## Calculating Motors Torque
 

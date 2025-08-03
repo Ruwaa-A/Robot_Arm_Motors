@@ -3,14 +3,13 @@ Calculating the required motor torque for a robot arm and selecting the appropri
 
 ___________________________________
 ## Choosing Servo Motors
-1- Shoulder:
+1- Shoulder: AC servo motor
 
-2- Elbow:
+2- Elbow: DC servo motor
 
-3- Wrist: 
+3- Wrist: BLDC servo motor
 
 ## Calculating Motors Torque
-
 
 ## Lifting 2 kg by Adding Gears
 

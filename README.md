@@ -8,15 +8,24 @@ ___________________________________
 Since it carry the heavy lifting.
    
 Link for purchasing:  
-https://www.alibaba.com/product-detail/Servo-Motor-And-Driver-750w-1kw_1600495722663.html?spm=a2700.7735675.0.0.53d213a0EFS39A&s=p
+https://www.alibaba.com/product-detail/Servo-Motor-And-Driver-750w-1kw_1600495722663.html?spm=a2700.7735675.0.0.53d213a0EFS39A&s=p    
 
+    
+  
+              
 2- Elbow: 
 - DC servo motor  
   S
+      
+Link for purchasing:    
 
 3- Wrist: 
-- BLDC servo motor  
-  S
+- BLDC servo motor
+  s  
+
+      
+Link for purchasing:    
+
 
 ## Calculating Motors Torque
 
